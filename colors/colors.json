@@ -1,0 +1,296 @@
+[
+  {
+    "period": "T1",
+    "name": "Talon M",
+    "r": 255,
+    "g": 226,
+    "b": 82
+  },
+  {
+    "period": "T1",
+    "name": "Logan H",
+    "r": 146,
+    "g": 140,
+    "b": 237
+  },
+  {
+    "period": "T1",
+    "name": "Dylan B",
+    "r": 24,
+    "g": 219,
+    "b": 210
+  },
+  {
+    "period": "T1",
+    "name": "Joshua C",
+    "r": 36,
+    "g": 38,
+    "b": 140
+  },
+  {
+    "period": "T1",
+    "name": "Carter C",
+    "r": 14,
+    "g": 79,
+    "b": 13
+  },
+  {
+    "period": "T1",
+    "name": "Beth S",
+    "r": 3,
+    "g": 14,
+    "b": 64
+  },
+  {
+    "period": "T1",
+    "name": "Jocelyn M",
+    "r": 0,
+    "g": 46,
+    "b": 110
+  },
+  {
+    "period": "T1",
+    "name": "Carmela B",
+    "r": 4,
+    "g": 0,
+    "b": 250
+  },
+  {
+    "period": "T1",
+    "name": "Eliza Y",
+    "r": 51,
+    "g": 148,
+    "b": 232
+  },
+  {
+    "period": "T1",
+    "name": "Taylor N",
+    "r": 124,
+    "g": 105,
+    "b": 128
+  },
+  {
+    "period": "T2",
+    "name": "Sam N",
+    "r": 0,
+    "g": 255,
+    "b": 195
+  },
+  {
+    "period": "T2",
+    "name": "Sam P",
+    "r": 237,
+    "g": 221,
+    "b": 45
+  },
+  {
+    "period": "T2",
+    "name": "Matt G",
+    "r": 84,
+    "g": 19,
+    "b": 14
+  },
+  {
+    "period": "T2",
+    "name": "Ryan M",
+    "r": 92,
+    "g": 127,
+    "b": 173
+  },
+  {
+    "period": "T2",
+    "name": "Alma O",
+    "r": 0,
+    "g": 247,
+    "b": 255
+  },
+  {
+    "period": "T2",
+    "name": "Brennan C",
+    "r": 60,
+    "g": 153,
+    "b": 32
+  },
+  {
+    "period": "T2",
+    "name": "Frances A",
+    "r": 243,
+    "g": 66,
+    "b": 90
+  },
+  {
+    "period": "T2",
+    "name": "Elaura F",
+    "r": 2,
+    "g": 125,
+    "b": 121
+  },
+  {
+    "period": "T2",
+    "name": "Heather R",
+    "r": 232,
+    "g": 165,
+    "b": 216
+  },
+  {
+    "period": "T2",
+    "name": "Vanessa C",
+    "r": 250,
+    "g": 217,
+    "b": 100
+  },
+  {
+    "period": "T2",
+    "name": "Tanya H",
+    "r": 66,
+    "g": 203,
+    "b": 245
+  },
+  {
+    "period": "T2",
+    "name": "Kaizlynn C",
+    "r": 242,
+    "g": 223,
+    "b": 245
+  },
+  {
+    "period": "T2",
+    "name": "Leslie J",
+    "r": 52,
+    "g": 100,
+    "b": 235
+  },
+  {
+    "period": "T2",
+    "name": "Brian N",
+    "r": 36,
+    "g": 127,
+    "b": 27
+  },
+  {
+    "period": "T2",
+    "name": "Michaela J",
+    "r": 49,
+    "g": 171,
+    "b": 173
+  },
+  {
+    "period": "T2",
+    "name": "Gabbi J",
+    "r": 221,
+    "g": 202,
+    "b": 224
+  },
+  {
+    "period": "T2",
+    "name": "Angelee L",
+    "r": 143,
+    "g": 138,
+    "b": 242
+  },
+  {
+    "period": "T2",
+    "name": "Natalie I",
+    "r": 27,
+    "g": 15,
+    "b": 191
+  },
+  {
+    "period": "T2",
+    "name": "Riana B",
+    "r": 81,
+    "g": 82,
+    "b": 130
+  },
+  {
+    "period": "T3",
+    "name": "Junho H",
+    "r": 31,
+    "g": 161,
+    "b": 154
+  },
+  {
+    "period": "T3",
+    "name": "Caleb L",
+    "r": 45,
+    "g": 237,
+    "b": 234
+  },
+  {
+    "period": "T3",
+    "name": "Minjae K",
+    "r": 3,
+    "g": 252,
+    "b": 219
+  },
+  {
+    "period": "T3",
+    "name": "Brinley O",
+    "r": 250,
+    "g": 187,
+    "b": 0
+  },
+  {
+    "period": "T3",
+    "name": "Jendayi R",
+    "r": 255,
+    "g": 0,
+    "b": 0
+  },
+  {
+    "period": "T3",
+    "name": "Mason L",
+    "r": 75,
+    "g": 132,
+    "b": 166
+  },
+  {
+    "period": "T3",
+    "name": "Ashley N",
+    "r": 173,
+    "g": 173,
+    "b": 255
+  },
+  {
+    "period": "T3",
+    "name": "Eduardo G",
+    "r": 85,
+    "g": 0,
+    "b": 255
+  },
+  {
+    "period": "T3",
+    "name": "Dylan L",
+    "r": 81,
+    "g": 201,
+    "b": 147
+  },
+  {
+    "period": "T3",
+    "name": "Peter B",
+    "r": 19,
+    "g": 232,
+    "b": 225
+  },
+  {
+    "period": "T3",
+    "name": "Andrew E",
+    "r": 0,
+    "g": 255,
+    "b": 204
+  },
+  {
+    "period": "T3",
+    "name": "Anna H",
+    "r": 43,
+    "g": 74,
+    "b": 58
+  },
+  {
+    "period": "T3",
+    "name": "Anna H",
+    "r": 43,
+    "g": 74,
+    "b": 58
+  }
+]
