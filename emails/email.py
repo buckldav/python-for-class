@@ -1,29 +1,7 @@
 import csv
 
 FILENAME = "emails.csv"
-TECH_STUDENTS = [
-  "Kyler Day",
-  "Bryson Day",
-  "Christopher Johnson",
-  "Carter Cook",
-  "Joseph Henage",
-  "Dallin Charbonneau",
-  "Ryan Meeks",
-  "Charles Kidder",
-  "Raven Kinsman",
-  "Max Wenham",
-  "Jaron Siebach",
-  "Michael Dyck",
-  "Richard Henage",
-  "Luke Eddy",
-  "Adam Jenkins",
-  "Isaac Jensen",
-  "Bryson Day",
-  "Joseph Wiseman",
-  "Eduardo Gutierrez",
-  "Owen Healy",
-  "Wyatt Hendricks"
-]
+TECH_STUDENTS = []
    
 def makeEmails(names):
   emails = []

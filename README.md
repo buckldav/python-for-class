@@ -1,11 +1,20 @@
-# ap-cs-generator
-Python programs for generating files used in my AP CS A class.
+# python-for-class
+Python programs for generating files and for autograding in my class.
 
-# reader
-Practice reading in csv files
+## [colors/](colors)
+Grading a hexademical colors assignment for web development.
 
-# autograder
-Practice reading csv files, performing operations, and writing to a file
+## [emailer/](emailer)
+Students practice using smtp protocol to send emails (Web Dev and IT classes).
 
-# sorter
-Practice implementing bubble, insertion, selection, and merge sort
+## [emails/](emails)
+Generate student emails given their names.
+
+## [pygrader/](pygrader)
+Autograde multiple choice tests.
+
+## [scrapers/](scrapers)
+Scrape information from CodeHS for grading purposes.
+
+## [studentgroups/](studentgroups)
+Randomly generate student groups.
