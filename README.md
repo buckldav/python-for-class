@@ -16,5 +16,8 @@ Autograde multiple choice tests.
 ## [scrapers/](scrapers)
 Scrape information from CodeHS for grading purposes.
 
+## [sorter/](sorter)
+Generate random lists into csv files for the purpose of sorting.
+
 ## [studentgroups/](studentgroups)
 Randomly generate student groups.
