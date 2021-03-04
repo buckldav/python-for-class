@@ -22,6 +22,7 @@ Students have a good grasp of Object-Oriented and Functional Programming in anot
 * Learn how to create and use Python objects.
 * Learn how to create a Python module and use relative and absolute imports.
 * Learn how to handle data flow from receiving JSON with a GET request to saving a SQLite database record (see picture below). This is in preparation for working with Django's ORM and Django REST Framework's Serializers. Students will also learn the dangers of SQL Injection, etc. and how Django's ORM combats this.
+
 ![Data flow](docs/data_flow.png)
 
 ---
