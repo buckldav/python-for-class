@@ -14,7 +14,7 @@ PASSWORD = os.getenv("PASSWORD")
 LOGIN_URL = "https://codehs.com/login"
 
 def get_students(session_requests):
-    URL = "https://codehs.com/section/141842/course/3113"
+    URL = "https://codehs.com/section/160503/course/1939/"
     result = session_requests.get(URL, headers = dict(referer = URL))
     tree = html.fromstring(result.content)
     f = open("scrapedpage.html", "w")
