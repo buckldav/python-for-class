@@ -1,7 +1,7 @@
 # Pokemon GO
 This is a basic implementation of Pokemon GO, where you find Pokemon based on what region you are in. This is a Python console app where the user chooses from a list of Pokemon habitats. This app leverages PokeAPI ([https://pokeapi.co/](https://pokeapi.co/)) to get data.
 
-## Usage
+## Setup and Demo
 ```bash
 python3 -m venv env
 source env/bin/activate
@@ -12,8 +12,10 @@ python3 main.py migrate
 python3 main.py
 ```
 
+![Demo](docs/usage.gif)
+
 ## Pedagogy
-I wrote this as a vehicle for preparing to work with Django.
+I wrote this as a vehicle for preparing to work with Django, specifically, to emulate how Django handles data flow.
 
 #### Background Knowledge
 Students have a good grasp of Object-Oriented and Functional Programming in another language (JavaScript). They know how to implement basic programming constructs in Python but have not worked with objects or modules yet.
