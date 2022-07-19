@@ -9,12 +9,12 @@ from dotenv import load_dotenv, find_dotenv
 load_dotenv(find_dotenv())
 
 USERNAME = os.getenv("CODEHS_USERNAME")
-PASSWORD = os.getenv("PASSWORD")
+PASSWORD = os.getenv("CODEHS_PASSWORD")
 
 LOGIN_URL = "https://codehs.com/login"
 
 def get_students(session_requests):
-    URL = "https://codehs.com/section/160503/course/1939/"
+    URL = "https://codehs.com/section/284829/course/3115/"
     result = session_requests.get(URL, headers = dict(referer = URL))
     tree = html.fromstring(result.content)
     f = open("scrapedpage.html", "w")
