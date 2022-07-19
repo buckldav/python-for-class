@@ -1,5 +1,6 @@
 import os
 from pprint import pprint
+from traceback import print_exception
 import xml.etree.ElementTree as ET
 from uuid import uuid4
 import zipfile
@@ -164,8 +165,16 @@ def create_qs_from_csv(root, filename):
         for q_num, row in enumerate(reader):
             points = row[0]
             q_body = row[1]
-            answers = json.loads(row[2])
-            correct_indicies = json.loads(row[3])
+            answers = ""
+            correct_indicies = []
+            try:
+                answers = json.loads(row[2])
+            except Exception as e:
+                print_exception(e)
+            try:
+                correct_indicies = json.loads(row[3])
+            except Exception as e:
+                print_exception(e)
 
             create_q(root, q_num + 1, points, q_body, answers, correct_indicies)
 
